@@ -1,5 +1,12 @@
-???????????????????
-<!---
-testuser1111111-nd/testuser1111111-nd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Provocateur
+
+もふもふを眺めるのと、新しい技術を学ぶのが好きです。
+
+機械か情報（たまに生体）が絡むことなら、だいたい興味を持ちます。現実の制約を満たす方法を鬼のように追究するだけしておいて、PoC を作って満足する、を繰り返しています。
+
+- 気になっていること：3D プリンタなどの生産工学系の技術、ロボティクス、身体拡張・XR・VR・HCI、画像認識
+- 触ってきたもの：CAD、電子工作、競技プログラミング、C# / Unity、C++
+
+ここにある古いリポジトリは、作ったまま放置しているものが多いです。
+
+X：[@Provocateur_100](https://x.com/Provocateur_100)
